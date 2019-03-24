@@ -1,2 +1,3 @@
 print('Hello Junior')
 print(hello everybody)
+print(hello)
