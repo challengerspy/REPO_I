@@ -1,4 +1,5 @@
 print('Hello Junior')
-print(hello everybody)
-print(hello)
-print(hello my dear friend)
+print('hello everybody')
+print('hello')
+print('hello my dear friend')
+print('glad to see you')
